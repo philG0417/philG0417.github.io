@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/philgebauer/HP-Turkey-Trot/issues"
   },
+  "dependencies": {
+    "express": "^4.15.0",
+    "body-parser": "^1.16.1"
+
+  },
   "homepage": "https://github.com/philgebauer/HP-Turkey-Trot#readme"
 }
