@@ -1,0 +1,20 @@
+{
+  "name": "hp-turkey-trot",
+  "version": "1.0.0",
+  "description": "Highland Park Turkey Trot",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server/app.js",
+    "start": "server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philgebauer/HP-Turkey-Trot.git"
+  },
+  "author": "Phil Gebauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philgebauer/HP-Turkey-Trot/issues"
+  },
+  "homepage": "https://github.com/philgebauer/HP-Turkey-Trot#readme"
+}
